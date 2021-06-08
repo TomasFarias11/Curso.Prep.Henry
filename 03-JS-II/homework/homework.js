@@ -224,7 +224,6 @@ function doWhile(numero) {
   return numero;
 }
 
-
 // No modificar nada debajo de esta línea
 // --------------------------------
 
